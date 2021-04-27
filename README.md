@@ -1,2 +1,2 @@
 # autostart
-QA automation course
+QA automation course!
